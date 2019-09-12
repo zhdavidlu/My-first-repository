@@ -2,7 +2,7 @@ import hashlib
 import os
 wkdir = os.path.abspath(os.path.dirname(__file__))
 
-whereToThonk = wkdir + "/ + raw_input("Filename: ")
+whereToThonk = wkdir + / + raw_input("Filename: ")
 thonkPower = int(raw_input("Bytes to Read: "))
 
 turnk = hashlib.sha256()
