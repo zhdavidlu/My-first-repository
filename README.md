@@ -1,5 +1,9 @@
-memeCommit1
-# My-first-repository
+# A Fairly Intresting Repository
+## Repo Features:
+1. SHA256 Hash generator that takes files as input
+2. A picture of a cartoon dog in a burning house in jpg format
+3. A picture of a cat with a thumb (the end is nye) in jpg format
+4. A very descriptive and unconvoluted README file with a ASCII-art version of repository feature 2
 
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
